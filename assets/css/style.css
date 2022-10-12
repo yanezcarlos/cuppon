@@ -1,0 +1,70 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/*             ----             */
+
+.text-center {
+    text-align: center;
+}
+
+.text-end {
+    text-align: end;
+}
+
+.c-negro {
+    color: #212529;
+}
+
+.c-gris {
+    color: #707070;
+}
+
+.c-verde {
+    color: #28a745;
+}
+
+.c-blanco {
+    color: #fff;
+}
+
+.c-light {
+    color: #f8f9fa;
+}
+
+.opac-3 {
+    opacity: .3;
+}
+
+.r-light {
+    font-weight: 300;
+}
+
+.r-medium {
+    font-weight: 500;
+}
+
+.fz-13 {
+    font-size: 13px;
+}
+
+.fz-16 {
+    font-size: 16px;
+}
+
+.fz-20 {
+    font-size: 20px;
+}
+
+.ancho-80 {
+    width: 80%;
+}
+
+.maxw-800 {
+    max-width: 800px;
+}
+
+.m-auto {
+    margin: 0 auto;
+}
